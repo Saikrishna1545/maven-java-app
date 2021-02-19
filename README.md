@@ -1,2 +1,2 @@
 # maven-java-app
-Basic Maven Project
+Basic Maven  Project
